@@ -1,4 +1,4 @@
-import express, { response, Router } from 'express';
+import express, { Router } from 'express';
 import { createServer } from 'http';
 import { Server } from 'socket.io';
 import cors from 'cors';
